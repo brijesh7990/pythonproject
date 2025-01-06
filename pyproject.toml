@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "djangoadpi"
+name = "project"
 version = "0.1.0"
 description = "this is djangoapi"
 authors = ["brijesh dabhi"]
