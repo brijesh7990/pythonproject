@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "djangoadpi"
+version = "0.1.0"
+description = "this is djangoapi"
+authors = ["brijesh dabhi"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.1.4"
+djangorestframework = "^3.15.2"
+pillow = "^11.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
